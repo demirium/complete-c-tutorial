@@ -15,6 +15,10 @@ This repository contains a complete C programming education series based on univ
 - Addresses common beginner mistakes and confusions
 - Completely free and open to all
 
+If you want to examine some examples, you can also view my other repo: https://github.com/demirium/basic-c-exercises
+
+Don't worry, it's much more organised now hihihi :D
+
 ---
 
 ## 🗺️ Learning Path
