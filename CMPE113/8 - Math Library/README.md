@@ -9,7 +9,7 @@ ensures accuracy, efficiency, and saves development time.
 
 ---
 
-## 📌 What is math.h?
+## What is math.h?
 
 `math.h` is a standard C library that provides mathematical functions
 for performing common mathematical operations.
@@ -23,7 +23,7 @@ It includes functions for:
 
 ---
 
-## 🧠 Why is this important?
+## Why is this important?
 
 You could technically write your own functions to calculate square roots,
 powers, or other mathematical operations using loops and basic arithmetic.
@@ -38,7 +38,7 @@ Learning to use standard libraries is an essential skill in programming!
 
 ---
 
-## 🧩 Core Concepts in This Section
+## Core Concepts in This Section
 
 In this folder, you will learn about:
 - including and using `math.h`
@@ -75,7 +75,7 @@ You can find more information from here: https://www.w3schools.com/c/c_ref_math.
 
 ---
 
-## ✍️ Basic Math Library Example
+## Basic Math Library Example
 
 A simple example using common math functions:
 
@@ -105,7 +105,7 @@ int main(void) {
 
 ---
 
-## 📰 Explanation
+## Explanation
 
 `#include <math.h>` gives access to mathematical functions
 
@@ -121,7 +121,9 @@ Most math functions work with `double` type for precision
 
 ---
 
-## 🔍 Common Beginner Mistakes
+## Common Beginner Mistakes
+
+*BOOOOOONE!* 🦴 How dare you make these math mistakes:
 
 - Forgetting to include `#include <math.h>`
 
@@ -135,7 +137,7 @@ Most math functions work with `double` type for precision
 
 ---
 
-## 🧪 Practice Suggestions
+## Practice Suggestions
 
 Create a calculator that uses pow() for exponentiation
 
@@ -149,13 +151,13 @@ Build a simple scientific calculator
 
 ---
 
-## 🪄 Examples
+## Examples
 
 - [Scientific-Calculator.c](Scientific-Calculator.c)
 
 ---
 
-## FAQs: 🤔 Can't I just write these functions myself?
+## FAQs: Can't I just write these functions myself?
 
 Yes, you absolutely *can* write your own mathematical functions!
 

@@ -19,7 +19,7 @@ int main(void) {
     int dice = (rand() % 6) + 1;
     printf("Dice roll: %d\n", dice);
     
-    // That's it! You now have a dice simulator! You now finish the first step of the C Programming course!
+    // That's it! You now have a dice simulator!
 
     return 0;
 }

@@ -9,7 +9,7 @@ and is particularly useful when you know how many times you want to repeat somet
 
 ---
 
-## 📌 What is a for loop?
+## What is a for loop?
 
 A `for` loop is a control structure that repeats a block of code
 a specific number of times.
@@ -21,7 +21,7 @@ It consists of three main parts:
 
 ---
 
-## 🧠 Why is this important?
+## Why is this important?
 
 Without loops, you would need to write the same code over and over again
 to perform repetitive tasks.
@@ -36,7 +36,7 @@ They are essential for writing efficient and maintainable programs.
 
 ---
 
-## 🧩 Core Concepts in This Section
+## Core Concepts in This Section
 
 In this folder, you will learn about:
 - `for` loop syntax
@@ -48,7 +48,7 @@ In this folder, you will learn about:
 
 ---
 
-## ✍️ Basic For Loop Example
+## Basic For Loop Example
 
 A simple example of a for loop:
 
@@ -77,7 +77,7 @@ Iteration: 5
 
 ---
 
-## 📰 Explanation
+## Explanation
 
 `for (initialization; condition; increment)` defines the loop structure
 
@@ -91,7 +91,9 @@ The loop body `{ ... }` contains the code to be repeated
 
 ---
 
-## 🔍 Common Beginner Mistakes
+## Common Beginner Mistakes
+
+*Terry loves loops!* 🏋️‍♂️ But Terry hates these mistakes:
 
 - Using `=` instead of `==` in the condition
 
@@ -105,7 +107,7 @@ The loop body `{ ... }` contains the code to be repeated
 
 ---
 
-## 🧪 Practice Suggestions
+## Practice Suggestions
 
 Change the starting and ending values of the loop
 
@@ -119,7 +121,7 @@ Combine for loops with if statements
 
 ---
 
-## 🪄 Examples
+## Examples
 
 - [ex-1.c](ex-1.c)
 - [ex-2.c](ex-2.c)
@@ -129,7 +131,7 @@ Combine for loops with if statements
 
 ---
 
-## FAQs: 🤔 What's the difference between for and while loops?
+## FAQs: What's the difference between for and while loops?
 
 A `for` loop is best when you know **exactly how many times**
 you want to repeat something.

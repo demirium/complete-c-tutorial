@@ -8,7 +8,7 @@ Like math.h, these are pre-built functions that save you time and effort!
 
 ---
 
-## 📌 What is stdlib.h?
+## What is stdlib.h?
 
 `stdlib.h` is one of C's most important standard libraries.
 It provides general-purpose utility functions that don't fit into
@@ -23,7 +23,7 @@ It includes functions for:
 
 ---
 
-## 🧠 Why is this important?
+## Why is this important?
 
 Many common programming tasks require these utility functions.
 
@@ -38,7 +38,7 @@ is well-tested and sufficient for most purposes!
 
 ---
 
-## 🧩 Core Concepts in This Section
+## Core Concepts in This Section
 
 In this folder, you will learn about:
 - random number generation with `rand()` and `srand()`
@@ -66,7 +66,7 @@ You can find more information here: https://www.w3schools.com/c/c_ref_stdlib.php
 
 ---
 
-## ✍️ Basic Random Number Example
+## Basic Random Number Example
 
 A simple example generating random numbers:
 
@@ -98,7 +98,7 @@ int main(void) {
 
 ---
 
-## 📰 Explanation
+## Explanation
 
 `#include <stdlib.h>` gives access to stdlib functions
 
@@ -136,7 +136,9 @@ int num = (rand() % (20 - 10 + 1)) + 10;  // or: (rand() % 11) + 10
 
 ---
 
-## 🔍 Common Beginner Mistakes
+## Common Beginner Mistakes
+
+*Yippie kay yay, other buckets!* 🤠 Boyle says to avoid these:
 
 - Forgetting to include `#include <stdlib.h>`
 
@@ -150,7 +152,7 @@ int num = (rand() % (20 - 10 + 1)) + 10;  // or: (rand() % 11) + 10
 
 ---
 
-## 🧪 Practice Suggestions
+## Practice Suggestions
 
 Create a dice rolling simulator (1-6)
 
@@ -164,13 +166,13 @@ Generate random math quiz questions
 
 ---
 
-## 🪄 Examples
+## Examples
 
 - [Dice-Simulator.c](Dice-Simulator.c)
 
 ---
 
-## FAQs: 🤔 Why do I need srand(time(0))?
+## FAQs: Why do I need srand(time(0))?
 
 Without `srand()`, the random number generator always produces
 the **same sequence** of "random" numbers every time you run the program!
@@ -192,7 +194,7 @@ not inside loops or before every `rand()` call!
 
 ---
 
-## FAQs: 🤔 How do I generate random numbers in a range?
+## FAQs: How do I generate random numbers in a range?
 
 Use the modulo operator (%) with the formula:
 

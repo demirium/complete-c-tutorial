@@ -4,12 +4,12 @@ An advanced guide to C programming, covering pointers, arrays, strings, structur
 
 ---
 
-## 🎯 About This Project
+## About This Project
 
 This educational resource is the continuation of CMPE113, diving into intermediate and advanced C programming concepts. It addresses the complexities and challenges students typically face when moving beyond the basics.
 
 **Why I created this:**
-- 💡 To help students navigate the challenging transition from basics to advanced concepts
+- To help students navigate the challenging transition from basics to advanced concepts
 - 🎓 To provide clear explanations for historically difficult topics (like pointers!)
 - 🌍 To offer a free, comprehensive resource for advancing C skills
 - 📂 To complete a full C programming education series
@@ -25,8 +25,8 @@ This course covers advanced C programming concepts essential for real-world deve
 
 - 📝 In-depth explanations with visual diagrams where helpful
 - 💻 Practical, tested code examples
-- 🔍 Common mistakes and debugging strategies
-- 🧪 Progressive exercises from simple to complex
+- Common mistakes and debugging strategies
+- Progressive exercises from simple to complex
 - ❓ FAQ sections tackling the most confusing aspects
 
 ---
@@ -52,7 +52,7 @@ This course covers advanced C programming concepts essential for real-world deve
 
 ---
 
-## 🚀 How to Use This Resource
+## How to Use This Resource
 
 1. **Complete CMPE113 first** - This course builds on fundamental knowledge
 2. **Take your time with pointers** - They're challenging but crucial
@@ -92,11 +92,11 @@ gcc -g filename.c -o filename
 
 ---
 
-## 📌 What Makes This Different?
+## What Makes This Different?
 
-- 🎯 **Focuses on pain points** - Extra attention to historically difficult topics
-- 🧩 **Progressive complexity** - Examples start simple and build up
-- 🔍 **Memory visualization** - Helps understand what's happening "under the hood"
+- **Focuses on pain points** - Extra attention to historically difficult topics
+- **Progressive complexity** - Examples start simple and build up
+- **Memory visualization** - Helps understand what's happening "under the hood"
 - ✅ **Tested code** - Every example is verified and working
 - 🤝 **Student perspective** - Explains things the way I wish they were explained to me
 
@@ -108,11 +108,11 @@ gcc -g filename.c -o filename
 - 🆙 CMPE113 graduates ready for the next level
 - 🔄 Self-learners advancing their C programming skills
 - 💼 Programmers needing to understand low-level concepts
-- 🎯 Anyone preparing for systems programming or embedded development
+- Anyone preparing for systems programming or embedded development
 
 ---
 
-## ⚠️ A Note on Difficulty
+## A Note on Difficulty
 
 **This course is challenging!** Topics like pointers and memory management are known to be difficult. If you struggle, you're not alone - these concepts trip up everyone at first.
 
@@ -162,7 +162,7 @@ This project exists thanks to:
 
 ---
 
-**Ready to Level Up! 🚀**
+**Ready to Level Up! **
 
 *Pointers will challenge you. Arrays will confuse you. Segmentation faults will frustrate you. But when it all clicks, you'll understand C at a level most programmers never reach. Keep pushing forward!*
 

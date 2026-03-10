@@ -8,7 +8,7 @@ on whether a condition is true or false.
 
 ---
 
-## 📌 What is an if / else statement?
+## What is an if / else statement?
 
 An `if` statement checks a condition.
 If the condition is true, the code inside the `if` block is executed.
@@ -17,7 +17,7 @@ If the condition is false, the code inside the `else` block (if provided) is exe
 
 ---
 
-## 🧠 Why is this important?
+## Why is this important?
 
 Without conditional statements, programs would always execute the same code
 and would not be able to react to different situations.
@@ -31,7 +31,7 @@ They are a fundamental part of almost every program.
 
 ---
 
-## 🧩 Core Concepts in This Section
+## Core Concepts in This Section
 
 In this folder, you will learn about:
 - `if` statements
@@ -42,7 +42,7 @@ In this folder, you will learn about:
 
 ---
 
-## ✍️ Basic If / Else Example
+## Basic If / Else Example
 
 A simple example of an `if / else` statement:
 
@@ -64,7 +64,7 @@ int main(void) {
 
 ---
 
-## 📰 Explanation
+## Explanation
 
 `if (condition)` checks if the condition is true
 
@@ -78,7 +78,9 @@ Curly braces {} define code blocks and improve readability
 
 ---
 
-## 🔍 Common Beginner Mistakes
+## Common Beginner Mistakes
+
+*Cool motive, still murder.* 🕶️ Some logic errors to avoid:
 
 - Using = instead of == for comparison
 
@@ -90,7 +92,7 @@ Curly braces {} define code blocks and improve readability
 
 ---
 
-## 🧪 Practice Suggestions
+## Practice Suggestions
 
 Change the condition and observe different outputs
 
@@ -102,7 +104,7 @@ Combine input (scanf) with if / else statements
 
 ---
 
-## 🪄 Examples
+## Examples
 
 - [ex-1.c](ex-1.c)
 - [ex-2.c](ex-2.c)
@@ -112,7 +114,7 @@ Combine input (scanf) with if / else statements
 
 ---
 
-## FAQs: 🤔 Why do we need conditional statements?
+## FAQs: Why do we need conditional statements?
 
 Conditional statements allow programs to behave differently
 based on the data they process.

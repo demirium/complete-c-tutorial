@@ -1,0 +1,19 @@
+int sumOfEvens(int arr[], int size) {
+	int sumofevens=0;
+	for(int i=0;i<size;i++) {
+		if(arr[i]%2==0)
+			sumofevens=sumofevens+arr[i];
+	}
+	return sumofevens;
+}
+
+----------------------------------------------------
+
+int countDiv(int arr[], int size, int num) {
+	int divisiblecount=0;
+	for(int i=0;i<size;i++) {
+		if(arr[i]%num==0)
+			divisiblecount++;
+	}
+	return divisiblecount;
+}

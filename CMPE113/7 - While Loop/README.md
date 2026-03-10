@@ -8,7 +8,7 @@ The `while` loop continues executing as long as its condition remains true. Well
 
 ---
 
-## 📌 What is a while loop?
+## What is a while loop?
 
 A `while` loop is a control structure that repeats a block of code
 as long as a given condition is true.
@@ -18,7 +18,7 @@ The initialization and increment must be handled separately.
 
 ---
 
-## 🧠 Why is this important?
+## Why is this important?
 
 While loops are essential when:
 - you don't know how many iterations you need
@@ -31,7 +31,7 @@ and are fundamental to writing interactive programs.
 
 ---
 
-## 🧩 Core Concepts in This Section
+## Core Concepts in This Section
 
 In this folder, you will learn about:
 - `while` loop syntax
@@ -43,7 +43,7 @@ In this folder, you will learn about:
 
 ---
 
-## ✍️ Basic While Loop Example
+## Basic While Loop Example
 
 A simple example of a while loop:
 
@@ -73,7 +73,7 @@ Count: 5
 
 ---
 
-## 📰 Explanation
+## Explanation
 
 `while (condition)` checks if the condition is true before each iteration
 
@@ -87,7 +87,9 @@ If the condition is false from the start, the loop never executes
 
 ---
 
-## 🔍 Common Beginner Mistakes
+## Common Beginner Mistakes
+
+*I can do this all day. Wait, that's Captain America. I mean, NINE-NINE!* 🦸‍♂️ Watch out for:
 
 - Forgetting to update the loop variable (infinite loop)
 
@@ -101,7 +103,7 @@ If the condition is false from the start, the loop never executes
 
 ---
 
-## 🧪 Practice Suggestions
+## Practice Suggestions
 
 Create a countdown program (10 to 1)
 
@@ -115,7 +117,7 @@ Compare the same task written with for and while loops
 
 ---
 
-## 🪄 Examples
+## Examples
 
 - [ex-1.c](ex-1.c)
 - [ex-2.c](ex-2.c)
@@ -125,7 +127,7 @@ Compare the same task written with for and while loops
 
 ---
 
-## FAQs: 🤔 When should I use while instead of for?
+## FAQs: When should I use while instead of for?
 
 Use `while` when:
 - you don't know how many times to repeat in advance

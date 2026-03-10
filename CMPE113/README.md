@@ -4,12 +4,12 @@ A comprehensive, beginner-friendly guide to C programming fundamentals, created 
 
 ---
 
-## 🎯 About This Project
+## About This Project
 
 This educational resource was developed based on my experience with university-level C programming courses (CMPE113 & CMPE114). It addresses the common challenges and learning gaps I encountered during my studies.
 
 **Why I created this:**
-- 💡 To help underclassmen navigate the same difficulties I faced
+- To help underclassmen navigate the same difficulties I faced
 - 🎓 To provide a clear, structured learning path for C beginners
 - 🌍 To offer a free, accessible resource for anyone learning C
 - 📂 To build a meaningful portfolio project
@@ -25,8 +25,8 @@ This course covers the fundamental concepts of C programming in a logical, easy-
 
 - 📝 Detailed explanations and concept breakdowns
 - 💻 Multiple working code examples
-- 🔍 Common beginner mistakes and how to avoid them
-- 🧪 Practice suggestions and exercises
+- Common beginner mistakes and how to avoid them
+- Practice suggestions and exercises
 - ❓ FAQ sections addressing typical confusions
 
 ---
@@ -49,10 +49,11 @@ This course covers the fundamental concepts of C programming in a logical, easy-
 ### **Standard Libraries**
 8. **[Math Library](8%20-%20Math%20Library)** - Mathematical functions with `math.h`
 9. **[Stdlib Basics](9%20-%20Stdlib%20Basics)** - Random numbers and utilities with `stdlib.h`
+10. **[Functions](10%20-%20Functions)** - Reusable code blocks with `functions`
 
 ---
 
-## 🚀 How to Use This Resource
+## How to Use This Resource
 
 1. **Start from the beginning** - The sections are designed to build on each other
 2. **Read the README** - Each section has a comprehensive README.md explaining the concepts
@@ -74,7 +75,7 @@ This course covers the fundamental concepts of C programming in a logical, easy-
 
 ---
 
-## 📌 What Makes This Different?
+## What Makes This Different?
 
 - ✅ **Student perspective** - Written by someone who recently learned these concepts
 - ✅ **Real struggles addressed** - Focuses on actual pain points and confusions
@@ -90,7 +91,7 @@ This course covers the fundamental concepts of C programming in a logical, easy-
 - 📚 Students taking CMPE113 or similar introductory courses
 - 🔄 Self-learners wanting a structured curriculum
 - 👨‍🏫 Educators looking for teaching materials
-- 🔍 Anyone refreshing their C programming fundamentals
+- Anyone refreshing their C programming fundamentals
 
 ---
 

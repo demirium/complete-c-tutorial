@@ -9,7 +9,7 @@ and often results in cleaner, more readable code.
 
 ---
 
-## 📌 What is a switch-case statement?
+## What is a switch-case statement?
 
 A `switch` statement evaluates an expression and compares its value
 against multiple `case` labels.
@@ -20,7 +20,7 @@ If no match is found, an optional `default` block can be executed.
 
 ---
 
-## 🧠 Why is this important?
+## Why is this important?
 
 Switch-case statements are particularly useful when:
 - you need to compare a single variable against multiple values
@@ -32,7 +32,7 @@ with multiple discrete options.
 
 ---
 
-## 🧩 Core Concepts in This Section
+## Core Concepts in This Section
 
 In this folder, you will learn about:
 - `switch` keyword
@@ -44,7 +44,7 @@ In this folder, you will learn about:
 
 ---
 
-## ✍️ Basic Switch-Case Example
+## Basic Switch-Case Example
 
 A simple example of a switch-case statement:
 
@@ -80,7 +80,7 @@ int main(void) {
 
 ---
 
-## 📰 Explanation
+## Explanation
 
 `switch (expression)` evaluates the expression once
 
@@ -94,7 +94,9 @@ Without `break`, execution "falls through" to the next case
 
 ---
 
-## 🔍 Common Beginner Mistakes
+## Common Beginner Mistakes
+
+*Nine-Nine!* 🚔 Common traps you shouldn't fall into:
 
 - Forgetting the `break` statement (causes fall-through)
 
@@ -108,7 +110,7 @@ Without `break`, execution "falls through" to the next case
 
 ---
 
-## 🧪 Practice Suggestions
+## Practice Suggestions
 
 Add more cases and observe the behavior
 
@@ -122,7 +124,7 @@ Combine user input (scanf) with switch-case
 
 ---
 
-## 🪄 Examples
+## Examples
 
 - [ex-1.c](ex-1.c)
 - [ex-2.c](ex-2.c)
@@ -132,7 +134,7 @@ Combine user input (scanf) with switch-case
 
 ---
 
-## FAQs: 🤔 When should I use switch instead of if-else?
+## FAQs: When should I use switch instead of if-else?
 
 Use `switch` when you are comparing a single variable
 against multiple specific, constant values.

@@ -6,7 +6,7 @@ to understand how a simple C program works.
 
 ---
 
-## 📌 What is C?
+## What is C?
 
 C is a general-purpose programming language that provides low-level access to memory
 while still supporting structured programming.
@@ -21,7 +21,7 @@ Many modern languages and systems are built on concepts introduced by C.
 
 ---
 
-## 🧠 Why is this important?
+## Why is this important?
 
 Learning C helps you understand:
 - how programs are structured
@@ -33,7 +33,7 @@ such as C++, Java, Python, and many more.
 
 ---
 
-## 🧩 Core Concepts in This Section
+## Core Concepts in This Section
 
 In this folder, you will learn about:
 - basic program structure
@@ -44,7 +44,7 @@ In this folder, you will learn about:
 
 ---
 
-## ✍️ Basic Program Structure
+## Basic Program Structure
 
 A minimal C program looks like this:
 
@@ -59,7 +59,7 @@ int main(void) {
 
 ---
 
-## 📰 Explanation
+## Explanation
 
 `#include <stdio.h>` allows the use of input/output functions
 
@@ -71,7 +71,9 @@ int main(void) {
 
 ---
 
-## 🔍 Common Beginner Mistakes
+## Common Beginner Mistakes
+
+*Title of your compilation tape.* 📼 Oh wait, I mean...
 
 - Forgetting semicolons (;)
 
@@ -83,7 +85,7 @@ int main(void) {
 
 ---
 
-## 🧪 Practice Suggestions
+## Practice Suggestions
 
 Modify the output message in example programs
 
@@ -95,7 +97,7 @@ Intentionally introduce syntax errors and observe compiler messages
 
 ---
 
-## 🪄 Examples
+## Examples
 
 - [ex-1.c](ex-1.c)
 - [ex-2.c](ex-2.c)
@@ -103,7 +105,7 @@ Intentionally introduce syntax errors and observe compiler messages
 
 ---
 
-## FAQs: 🤔 Why do we use comments?
+## FAQs: Why do we use comments?
 
 Comments are used to explain *why* the code exists, not just *what* it does.
 

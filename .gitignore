@@ -1,0 +1,9 @@
+# C compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# OS generated files
+.DS_Store
+Thumbs.db

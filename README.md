@@ -9,10 +9,11 @@ A comprehensive, practical guide to C programming from absolute basics to advanc
 This repository contains a complete C programming education series based on university-level coursework (CMPE113 & CMPE114). It's designed to take you from your very first "Hello, World!" to understanding pointers, memory management, and file I/O.
 
 **What makes this special?**
-- Written from a student's perspective with real struggles in mind 🥸
+- Written from a student's perspective with real struggles in mind (and probably too much coffee ☕)
+- Sprinkled with *Brooklyn Nine-Nine* references because learning C shouldn't be boring! (NINE-NINE! 🚔)
 - Consistent, clear structure across all sections
 - Hundreds of tested, working code examples
-- Addresses common beginner mistakes and confusions
+- Addresses common beginner mistakes without the scary academic jargon
 - Completely free and open to all
 
 If you want to examine some examples, you can also view my other repo: https://github.com/demirium/basic-c-exercises
@@ -36,6 +37,7 @@ This course is divided into two main sections:
 4. Conditional statements (if/else, switch)
 5. Loops (for, while)
 6. Standard libraries (math.h, stdlib.h)
+7. Functions
 
 **Start here if:** You've never programmed in C before, or need a solid foundation in the basics.
 
@@ -118,7 +120,8 @@ C-Projects/
 │   ├── 6 - For Loop/
 │   ├── 7 - While Loop/
 │   ├── 8 - Math Library/
-│   └── 9 - Stdlib Basics/
+│   ├── 9 - Stdlib Basics/
+│   └── 10 - Functions/
 │
 ├── CMPE114/              # Advanced: Pointers, Arrays, Files
 │   ├── 1 - Pointers/
@@ -129,9 +132,13 @@ C-Projects/
 │   ├── 6 - Structures/
 │   └── 7 - File Processing/
 │
-├── Homeworks/            # Practice problems and assignments
-└── Lab Exam Questions/   # Additional practice materials
+├── Project Samples/      # Real-world project examples pulling it all together
+├── Homeworks/            # Assignments from my own classes (sharing what I have!)
+├── Lab Exam Questions/   # Past lab exams from my school to help you practice
+└── 114Questions/         # Extra practice questions I've gathered along the way
 ```
+
+> **Note about the extra folders:** 🎒 The `Homeworks`, `Lab Exam Questions`, and `114Questions` folders contain assignments and exams directly from my own classes at school. I'm sharing whatever materials I have on hand to help you practice, and I'll keep adding more as I find them! (Because sharing is caring, or as Boyle would say: *I love you.*)
 
 ---
 
@@ -155,7 +162,7 @@ Each section includes:
 **Weeks 1-2**: CMPE113 sections 1-3 (Introduction, Variables, Inputs)  
 **Weeks 3-4**: CMPE113 sections 4-5 (Conditionals, Switch)  
 **Weeks 5-6**: CMPE113 sections 6-7 (Loops)  
-**Weeks 7-8**: CMPE113 sections 8-9 (Libraries) + Build a project!  
+**Weeks 7-8**: CMPE113 sections 8-9 (Libraries, Functions) + Build a project!  
 **Weeks 9-10**: CMPE114 sections 1-3 (Pointers, Arrays)  
 **Weeks 11-12**: CMPE114 sections 4-7 (Advanced arrays, Strings, Structs, Files)
 
@@ -232,8 +239,8 @@ Your feedback helps make this resource better for everyone! 🌟
 
 ---
 
-**Author**: Tolga  
-**Courses**: CMPE113 (Complete ✅) | CMPE114 (In Progress 🚧)  
-**Last Updated**: January 2026  
+**Author**: Tolga Demir 
+**Courses**: CMPE113 (Complete ✅) | CMPE114 (Complete ✅)  
+**Last Updated**: March 2026  
 
 **⭐ Star this repo if it helps you learn!**

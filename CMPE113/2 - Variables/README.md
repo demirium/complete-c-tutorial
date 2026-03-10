@@ -7,7 +7,7 @@ Understanding variables is essential, as almost every program relies on them.
 
 ---
 
-## 📌 What is a variable?
+## What is a variable?
 
 A variable is a named memory location used to store a value.
 
@@ -20,7 +20,7 @@ The data type determines how much memory is allocated and how the value is inter
 
 ---
 
-## 🧠 Why is this important?
+## Why is this important?
 
 Variables allow programs to:
 - store information
@@ -33,7 +33,7 @@ Learning how variables work also helps you understand how memory is used interna
 
 ---
 
-## 🧩 Core Concepts in This Section
+## Core Concepts in This Section
 
 In this folder, you will learn about:
 - variable declaration
@@ -44,7 +44,7 @@ In this folder, you will learn about:
 
 ---
 
-## 📎 What is a placeholder?
+## What is a placeholder?
 
 A placeholder is a special symbol used in output functions like `printf`
 to indicate **where and how a variable’s value should be displayed**.
@@ -55,7 +55,7 @@ Each placeholder corresponds to a specific data type.
 
 ---
 
-## ✍️ Basic Placeholder Usage
+## Basic Placeholder Usage
 
 ```c
 int age = 20;
@@ -79,7 +79,7 @@ The order of placeholders must match the order of variables passed to printf.
 
 ---
 
-## 🔍 Common Placeholder Mistakes
+## Common Placeholder Mistakes
 
 - Using %d for a float
 
@@ -91,7 +91,7 @@ The order of placeholders must match the order of variables passed to printf.
 
 ---
 
-## 🤔 Why are placeholders necessary?
+## Why are placeholders necessary?
 
 - Placeholders allow printf to:
 
@@ -112,7 +112,7 @@ and writing correct output statements!
 
 ---
 
-## ✍️ Basic Variable Usage
+## Basic Variable Usage
 
 Now you know what a placeholder is! Then, Let's see a simple example of variable usage:
 
@@ -134,7 +134,7 @@ int main(void) {
 
 ---
 
-## 📰 Explanation
+## Explanation
 
 `int age = 20;` declares an integer variable and assigns a value
 
@@ -146,7 +146,9 @@ int main(void) {
 
 ---
 
-## 🔍 Common Beginner Mistakes
+## Common Beginner Mistakes
+
+*VINDICATION!* 🎈 Wait, that's just Captain Holt. Keep an eye out for these:
 
 - Using a variable without initializing it
 
@@ -160,7 +162,7 @@ int main(void) {
 
 ---
 
-## 🪄 Examples
+## Examples
 
 - [ex-1.c](ex-1.c)
 - [ex-2.c](ex-2.c)

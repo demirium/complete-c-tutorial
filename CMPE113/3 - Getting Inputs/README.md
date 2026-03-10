@@ -6,7 +6,7 @@ instead of fixed values.
 
 ---
 
-## 📌 What is user input?
+## What is user input?
 
 User input refers to data that is entered into the program while it is running.
 
@@ -15,7 +15,7 @@ most notably `scanf`.
 
 ---
 
-## 🧠 Why is this important?
+## Why is this important?
 
 Without user input, programs can only work with predefined values.
 
@@ -28,7 +28,7 @@ Almost all real-world programs require some form of user input.
 
 ---
 
-## 🧩 Core Concepts in This Section
+## Core Concepts in This Section
 
 In this folder, you will learn about:
 - the `scanf` function
@@ -39,7 +39,7 @@ In this folder, you will learn about:
 
 ---
 
-## ✍️ Basic Input Example
+## Basic Input Example
 
 A simple example of getting input from the user:
 
@@ -60,7 +60,7 @@ int main(void) {
 
 ---
 
-## 📰 Explanation
+## Explanation
 
 `scanf` reads input from the standard input (keyboard)
 
@@ -72,7 +72,9 @@ int main(void) {
 
 ---
 
-## 🔍 Common Beginner Mistakes
+## Common Beginner Mistakes
+
+*I am a human! I am a human male!* 🤖 And humans make mistakes, like:
 
 - Forgetting to use the address operator (&)
 
@@ -86,7 +88,7 @@ int main(void) {
 
 ---
 
-## 🧪 Practice Suggestions
+## Practice Suggestions
 
 Get input for different data types (int, float, char)
 
@@ -98,14 +100,14 @@ Intentionally remove & and observe compiler errors
 
 ---
 
-## 🪄 Examples
+## Examples
 
 - [ex-1.c](ex-1.c)
 - [ex-2.c](ex-2.c)
 
 ---
 
-## FAQs: 🤔 Why do we use & with scanf?
+## FAQs: Why do we use & with scanf?
 
 The & operator is used to pass the memory address of a variable to scanf.
 

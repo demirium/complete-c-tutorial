@@ -38,7 +38,7 @@ int main(void) {
 
     switch (grade) {
         case 'A':
-            printf("LETTER GRADE: A | LETTER COMMENT: Excellent!"); // like YOU MY DEAR LEARNER haha :^)
+            printf("LETTER GRADE: A | LETTER COMMENT: Excellent!"); // like YOU, MY DEAR LEARNER haha :^)
             break;
         case 'B':
             printf("LETTER GRADE: B | LETTER COMMENT: Good!");
