@@ -401,7 +401,7 @@ int main(void) {
         neededNextTermGPA = (targetGPA * (overallECTSSum + nextTermECTS) - overallWeightedSum) / nextTermECTS;
         
         if(neededNextTermGPA > 4.00) {
-            printf("\nIt is mathematically impossible amuga koyim nasıl yapacan");
+            printf("\nIt is mathematically impossible!");
         }
         else if(neededNextTermGPA < 0.00) {
             printf("\nYou have already reached your target GPA.\n");
